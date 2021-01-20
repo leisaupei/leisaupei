@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 ![SWAGGER](https://img.shields.io/badge/-swagger-000000?style=for-the-badge&logo=swagger&logoColor=40FF00)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-9932CC?style=for-the-badge&logo=visual-studio)
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
+<!--
 ### 我的 Github
 ![](https://github-readme-stats.vercel.app/api?username=leisaupei&count_private=true&show_icons=true&theme=radical)
-
+-->
 ### 联系我
 邮箱：tamwegid@163.com
